@@ -15,12 +15,12 @@ Input variables (based on physicochemical tests):
     Fuel – fuel(s)
     Cert Region 
     Stnd – vehicle emissions standard code. See Stnd Description.
-    Stnd Description – vehicle emissions standard description. See https://www.epa.gov/greenvehicles/federal-and-california-light-duty-vehicle-emissions-standards-air-pollutants
-    Underhood ID – engine family or test group ID. See http://www.fueleconomy.gov/feg/findacarhelp.shtml#airPollutionScore
-    Veh Class – EPA vehicle class. See http://www.fueleconomy.gov/feg/findacarhelp.shtml#epaSizeClass
-    Air Pollution Score (Smog Rating) – see http://www.fueleconomy.gov/feg/findacarhelp.shtml#airPollutionScore and https://www.epa.gov/greenvehicles/smog-rating
+    Stnd Description – vehicle emissions standard description.
+    Underhood ID – engine family or test group ID.
+    Veh Class – EPA vehicle class.
+    Air Pollution Score (Smog Rating).
     City MPG – city fuel economy in miles per gallon
     Hwy MPG – highway fuel economy in miles per gallon
     Cmb MPG – combined city/highway fuel economy in miles per gallon
-    Greenhouse Gas Score (Greenhouse Gas Rating) – see https://www.epa.gov/greenvehicles/greenhouse-gas-rating SmartWay – Yes, No, or Elite. See https://www.epa.gov/greenvehicles/consider-smartway-vehicle
-    Comb CO2 – combined city/highway CO2 tailpipe emissions in grams per mile
+    Greenhouse Gas Score (Greenhouse Gas Rating).
+    Comb CO2 – combined city/highway CO2 tailpipe emissions in grams per mile.
