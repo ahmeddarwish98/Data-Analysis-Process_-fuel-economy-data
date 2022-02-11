@@ -1,11 +1,15 @@
 # Data-Analysis-Process_-fuel-economy-data
 Data Analysis Professional - Data Analysis Process Case Study 1 - fuel economy data provided by the EPA, or Environmental Protection Agency.
 
-The test data used to determine fuel economy estimates is derived from vehicle testing done at EPA's National Vehicle and Fuel Emissions Laboratory in Ann Arbor, Michigan, and by vehicle manufacturers who submit their own test data to EPA.
+    
+The fuel economy of an automobile is the fuel efficiency relationship between the distance traveled and the amount of fuel consumed by the vehicle. Consumption can be expressed in terms of volume of fuel to travel a distance, or the distance travelled per unit volume of fuel consumed.
 
-Each year, EPA provides fuel economy data to the Department of Energy (DOE), the Department of Transportation (DOT) and the Internal Revenue Service (IRS) so that they can administer their fuel economy-related programs.
+Data Source
 
-Input variables (based on physicochemical tests):
+    EPA Fuel Economy Testing
+    DOE Fuel Economy Data
+
+variables:
 
     Model – vehicle make and model
     Displ – engine displacement in liters
